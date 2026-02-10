@@ -28,4 +28,13 @@ An AI-driven Smart Agriculture system that provides **crop recommendations** and
 ## ⚙️ System Flow
 
 
+**Input Parameters:**
+- Temperature  
+- Humidity  
+- Soil Moisture  
+- Rainfall  
+
+---
+
+
 
