@@ -1,0 +1,24 @@
+Software Requirements
+Programming & Development
+
+Python 3.9+ – backend development and machine learning
+
+Flask – backend web framework
+
+HTML5 – frontend structure
+
+CSS / Bootstrap 5 – UI design
+
+JavaScript – dashboard interactivity
+
+Machine Learning Libraries
+
+Scikit-learn – ML models (Random Forest, Linear Regression)
+
+XGBoost – disease prediction model
+
+Pandas – dataset processing
+
+NumPy – numerical computation
+
+Joblib – saving trained ML models
