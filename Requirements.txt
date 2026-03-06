@@ -22,3 +22,44 @@ Pandas – dataset processing
 NumPy – numerical computation
 
 Joblib – saving trained ML models
+
+Hardware Requirements
+Computer System
+
+Minimum system for development:
+
+Processor: Intel i3 or higher
+
+RAM: 8 GB recommended
+
+Storage: 256 GB or higher
+
+Operating System: Windows / Linux / macOS
+
+IoT Hardware (for real-time agriculture monitoring)
+
+These sensors will connect later in your project.
+
+Microcontroller
+
+ESP32 or ESP8266
+
+Sensors
+
+Soil Moisture Sensor – measure soil water level
+
+DHT11 / DHT22 Sensor – temperature and humidity
+
+Rain Sensor (optional) – rainfall detection
+
+Soil pH Sensor (optional) – soil acidity detection
+
+Other Components
+
+Breadboard
+
+Jumper wires
+
+Power supply / USB cable
+
+WiFi connection (for sending data to server)
